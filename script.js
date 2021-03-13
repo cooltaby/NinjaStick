@@ -12,7 +12,7 @@ function CallAds()
 				publisher: PublisherID,
 	            app: AppName,
 	            slot: SlotName,
-	            test: 0,
+	            test: 1,
 				/* only for responsive ads */
 				/*h: adMaxHeight,
 				w: adMaxWidth,
